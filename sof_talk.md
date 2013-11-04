@@ -11,6 +11,8 @@ bibliography: /users/grantwythoff/tex/zotero.bib
 
 My overarching research project is a cultural history of the gadget, as both a functional tool and a fictional device.
 
+Say something about "interaction," how it mediates between technology and technique, the hard material of the machine and cultural imaginaries.
+
 One of the historically specific contexts that I explore this nexus of technology and fictional thought is in the origins of American science fiction in electrical experimenter catalogs, a context no one has really looked at.
 
 # Mumford
@@ -60,7 +62,7 @@ For Michael Wood, fiction can be seen as
 
 While book history takes up the materiality of literature, the materiality of fiction presents us with some potentially thornier questions.  How are ficitons expressed not only in literary form, but in organizations, plans, engineering diagrams, standards, and physical media machines?  How might we conceptualize or model this moment of exchange between the material and the possible?  Science fiction, a literary genre that emerged out of an electrical parts catalog, provides one starting point for such questions.
 
-I'll begin by providing some background on the situation in science fiction studies -- some of its most canonical formulations, and some attempts to account for the genre outside of its textual productions -- and then we'll move onto some specifics with the early magazine situation.
+I'll proceed by providing, first, a crash course in science fiction studies, for those of you who haven't been lifelong fans, as I have -- what's important for our purposes is to look at some attempts that have been made in the field to account for the genre outside of its textual productions.  Second, we'll move into the specific context of the early 20th century electrical experimenter magazines and their significance as media historical documents.  And finally, I'll say a bit about…
 
 * * * * * *
 
@@ -74,9 +76,7 @@ First put forward in “On the Poetics of the Science Fiction Genre” (1972), t
 
 According to this model, science fiction is premised on a process of “estrangement” in that the literary gambit of the individual work consists of a “what if” question directed away from whatever we accept to be this world.  Importantly, this movement away from our world must be “cognitive.”  That is, the fictional hypothesis of the work is elaborated with objective, “scientific” rigor—it has to be plausible.
 
-These two elements of the science fictional narrative are intimately connected in that “the cognitive nucleus of the plot codetermines the fictional estrangement itself.”  This is to say, the aesthetic of SF’s estrangement from our world—in a “gesture of pointing, a wide-eyed glance from here to there, a ‘traveling shot’ from the author’s everyday lookout to the wondrous panorama of a far-off land”—resides in the complexity of its relations with the given world.
-
-It’s only now that attacks on this formulation of science fiction’s supposedly defining feature are gaining any traction.  Samuel R. Delany, who questions whether nailing down a concrete definition of science fiction is at all a useful critical endeavor in the first place, was one early detractor of Suvin’s work.  Delany argues that
+Pretty basic, formalist stuff, but it’s only now that attacks on this formulation of science fiction’s supposedly defining feature are gaining any traction.  Samuel R. Delany, who questions whether nailing down a concrete definition of science fiction is at all a useful critical endeavor in the first place, was one early detractor of Suvin’s work.  Delany argues that
 
 > the presence and interaction of estrangement and cognition in a literary work are simply and blatantly insufficient to produce SF.  If they interact in one way, they produce fantasy.  If they interact in another, they produce surrealism.  If they interact in still another, they produce criticism.
 
@@ -84,34 +84,27 @@ Contemporary science fiction author China Miéville takes a more pointed approac
 
 > To the extent that SF claims to be based on ‘science,’ and indeed on what is deemed ‘rationality,’ it is based on capitalist modernity’s ideologically projected self-justification: not some abstract/ideal ‘science,’ but capitalist science’s bullshit about itself.
 
-This idealization of science ignores not only the social construction of what counts as scientific fact, but also the works inspired by the New Wave of 1960s science fiction whose extrapolations proceed not from “science” but conceptions of gender, race, class, psychology, and sexuality.
+Suvin's notion of scientific "cognition" thus ignores not only the social construction of what counts as scientific fact, but also the works inspired by the New Wave of 1960s science fiction whose extrapolations proceed not from “science” but conceptions of gender, race, class, psychology, and sexuality.
 
-For other critics, the fact that Suvin focuses only on literary works of science fiction (a model which, furthermore, he admits excludes 95% of what is published *as* science fiction) is enough to render his model useless, as it ignores the output of the genre in film, television, comics, performance and visual art, and even some types of critical theory.  Istvan Csicsery-Ronay takes a more catholic approach in his book *The Seven Beauties of Science Fiction* (2008), a catalog of the formal markers native to the genre.  Surveying the many varieties of aesthetic experience science fiction can take up in all of its various media, Csicsery-Ronay even allows for the possibility that science fiction might be seen as a certain modality of lived experience in our thoroughly “technologized world.”
+For other critics, the fact that Suvin focuses only on literary works of science fiction (a model which, furthermore, Suvin himself admits excludes 95% of what is published *as* science fiction) is enough to render his model useless, as it ignores the output of the genre in film, television, comics, performance and visual art, and even some types of critical theory.  Istvan Csicsery-Ronay takes a more catholic approach in his book *The Seven Beauties of Science Fiction* (2008), a catalog of the formal markers native to the genre.  Surveying the many varieties of aesthetic experience science fiction can take up in all of its various media, Csicsery-Ronay even allows for the possibility that science fiction might be seen as a certain modality of lived experience in what he calls our thoroughly “technologized world.”
 
 > The widespread normalization of what is essentially a style of estrangement and dislocation has stimulated the development of science-fictional habits of mind, so that we no longer treat SF as purely a genre-engine producing formulaic effects, but rather as a kind of awareness we might call science-fictionality, a mode of response that frames and tests experiences as if they were aspects of a work of science fiction. . . .  Most people merely bracket difficult-to-process, incongruous moments of technology’s intersection with everyday life as science-fictional moments.
 
-This affective turn toward “science fictionality,” an expansion of the poetics of a literary genre into a category of experience, constitutes one of the more interesting developments in science fiction studies over the past couple decades.  In its simplest formulation, the idea circulates as a truism that “The world finally has caught up with science fiction.”  Many instances of this saying attempt to highlight the way in which the rate of technological change feels like it outpaces any attempt to understand the significance of that incursion in our daily lives.  Others try to come to terms with the fact that many of the genre’s imagined futures never came to pass, as in the popularity of retrofuturist books like *Where’s My Jetpack?* and blogs like Paleofuture, both of which explore how images of futures past sync up with the present in uncanny ways.
+This affective turn toward “science fictionality,” an expansion of the poetics of a literary genre into a category of experience, constitutes one of the more interesting developments in science fiction studies over the past decade or so.  In its simplest formulation, the idea circulates as a truism that “the world finally has caught up with science fiction.”  Many instances of this saying attempt to highlight the way in which the rate of technological change feels like it outpaces any attempt to understand the significance of that incursion in our daily lives.  Others try to come to terms with the fact that many of the genre’s imagined futures never came to pass, as in the popularity of retrofuturist books like *Where’s My Jetpack?* and blogs like Paleofuture, both of which explore how images of futures past sync up with the present in uncanny ways.
 
-Some scholars in science fiction studies encouraged a shift toward the science fictionality of everyday life in order to account for a media historically specific shift.  Brooks Landon, for instance, writes in 1992 of his
+Some scholars in science fiction studies encouraged a shift in the field's focus toward the science fictionality of everyday life in order to account for a media historically specific shift.  Brooks Landon, for instance, writes of his
 
 > belief that contemporary electronic technology has so displaced the savor of potentiality from stories about ‘great vistas in time and space’ to ways in which we actually experience time and space anew, that our culture now unconsciously brings to the experience of film and electronic media expectations very similar to those of the traditional SF reader.
 
-For yet another camp of science fiction critics, the experience of science fictionality itself is the product of a postmodern accretion of text upon text to the point that “the literature of the future has a long and honored past,” as Bruce Sterling writes in the preface to his famous anthology of cyberpunk fiction, *Mirrorshades.*  Describing the 1980s movement that encompassed not only fiction writers but poets, fashion designers, and fan cultures, he continues,
+For yet another camp of science fiction critics, the experience of science fictionality itself is the product of a postmodern accretion of text upon text to the point that “the literature of the future has a long and honored past,” as Bruce Sterling writes in the preface to his famous anthology of 1980s cyberpunk fiction, *Mirrorshades*: 
 
-> The cyberpunks are perhaps the first SF generation to grow up not only within the literary tradition of science fiction but in a truly science-fictional world,” and so they sought to capture “the overlapping of worlds that were formerly separate: the realm of high tech, and the modern pop underground.
+> The cyberpunks are perhaps the first SF generation to grow up not only within the literary tradition of science fiction but in a truly science-fictional world.
 
-While critical discussions on science fictionality were launched in order to describe certain contours of the contemporary moment, the sense that the world has caught up with its own fantastic dreams is not a recent development.  Many film and media scholars have remarked for some time on the inherent science fictionality of media technologies and their realignment of our sense of time and space, cinema foremost among them.^[
-Michelson, Annette, “Bodies in Space: Film as ‘Carnal Knowledge,’” *Artforum* Vol. 7 No. 6 (1969), pp. 54-63. Michelson, Annette, “On the Eve of the Future: The Reasonable Facsimile and the Philosophical Toy,” *October* vol. 29 (Summer, 1984). Bukatman, Scott, “Who Programs You? The Science Fiction of the Spectacle,” in *Alien Zone: Cultural Theory and Contemporary Science Fiction Cinema,* ed. Annette Kuhn (London: Verso, 1990), pp. 196-213. Bukatman, Scott, “There’s Always Tommorowland: Disney and the Hypercinematic Experience,” *October* 57 (Summer 1991), pp. 55-78.]
+While critical discussions on science fictionality were launched in order to describe certain contours of the contemporary moment, the sense that the world has caught up with its own fantastic dreams is not a recent development, and eslewhere in my project I write on precisely this problem of how the present both comes to terms with and avoids identifying itself as the present that past ages had imagined.  Many film and media scholars have remarked for some time on the inherent science fictionality of media technologies and their realignment of our sense of time and space, cinema foremost among them.^[Michelson, Annette, “Bodies in Space: Film as ‘Carnal Knowledge,’” *Artforum* Vol. 7 No. 6 (1969), pp. 54-63. Michelson, Annette, “On the Eve of the Future: The Reasonable Facsimile and the Philosophical Toy,” *October* vol. 29 (Summer, 1984). Bukatman, Scott, “Who Programs You? The Science Fiction of the Spectacle,” in *Alien Zone: Cultural Theory and Contemporary Science Fiction Cinema,* ed. Annette Kuhn (London: Verso, 1990), pp. 196-213. Bukatman, Scott, “There’s Always Tommorowland: Disney and the Hypercinematic Experience,” *October* 57 (Summer 1991), pp. 55-78.]
 
-The question I'm interested in is what type of literary, or rather “fictional” history would result if this approach to science fiction as a particular form of everyday experience was projected back into a reevaluation of the genre as a whole, rather than confined to a particular historical moment within it?  Instead of understanding “science fictionality” as the product of a postmodern accretion of images and narratives, how might we instead revise our understanding of science fiction’s literary history so that it might be seen as a structural inheritance of the genre’s very origins?  
-
-In many ways, by putting forward an extra-literary model of science fiction as a kind of experience that arises in the everyday, recent critics are returning to the intellectual core of Suvin’s theory even as they seek to revise it.  The genealogy of Suvin’s concept of “estrangement” lies precisely in such an attempt to account for everyday experience, drawing heavily upon Russian formalist literary critic Viktor Shklovsky’s concept of *ostranenie,* translated most commonly as “defamiliarization,”  For Shklovsky, all art possesses the ability to militate against the habituation of perception, the process by which the monotony of our daily experience causes objects to “retreat into the area of the unconsciously automatic.”  Picking up a hammer for the first time is a completely different experience when one compares it to holding that tool for the ten thousandth time.  Much like Heidegger’s account of the way in which the tool disappears into a work process, some form of exteriorization or distance from that tool is required to understand its essence in any way.  For Heidegger, this occurs when the tool breaks.
-
-But for Shklovsky, it is art that exists to “make the stone stony,” as he puts it.  “The technique of art is to make objects ‘unfamiliar,’ to make forms difficult, to increase the difficulty and length of perception because the process of perception is an aesthetic end in itself and must be prolonged.  Art is a way of experiencing the artfulness of an object: the object is not important.”  The end goal of Shklovsky’s reorientation toward objects that have retreated into the invisibility of habit is not to achieve a new kind of knowledge about the object.  For Shklovsky, perception is a process wholly different from knowledge (thus forcing Suvin to modify the Russian formalist account so that it might be used as a descriptor of science fiction, which involves a “cognitive,” or empirical, form of estrangement).  Shklovsky writes, “Defamiliarization is found almost anywhere form is found. […] Its purpose is not to make us perceive meaning, but to create a special perception of the object—it creates a vision of the object instead of serving as a means for knowing it.”  Suvin on the other hand places an emphasis on estrangement as the confrontation of “a set normative system—a Ptolemaic-type closed world picture—with a point of view or glance implying a new set of norms.”  But this confrontation need not be the sole province of literary fiction, with its systematic construction of fictional worlds through narrative means.  Estrangement is simply the process by which any form of aesthetic representation allows us to hold an everyday object at arm’s length, to make it strangely new once again. 
-
-Shklovsky’s ostranenie highlights the aesthetics of what Bernard Stiegler calls “technics and time”:  the temporal frameworks into which we place our tools and the uses to which they have been, are being, and can be put.  Out of this core scene—an object that is made strange to us—an incredible number of literary aesthetics, media theories, and design objectives have been inspired, each of which proceeds from a slightly different temporal framework.  As Tom Gunning writes, “the cycle from wonder to habit need not run only one way.”
+The question I'm interested in is what type of literary, or rather “fictional” history would result if this approach to science fiction as a particular form of everyday experience was projected back into a reevaluation of the genre as a whole, rather than confined to a particular historical moment within it.  Instead of understanding “science fictionality” as the product of a postmodern accretion of images and narratives, how might we instead revise our understanding of science fiction’s literary history so that it might be seen as a structural inheritance of the genre’s very origins?  
    
-In some, the newly gained perspective proceeds from some quality of the tool itself (it is broken; it is a fantastic innovation), while in others it is a product of a representation or narrative of that tool.  Such an aesthetic distanciation might proceed from a lengthy process of extended attention, perception, and appreciation, as it does for Shklovsky.  It may also be the product of a spectacular shock or momentary tableau, the latter best exemplified by the Gestus and “alienation effect” of Bertolt Brecht’s epic theater.  The temporal condition of the tool itself is also in question:  the tool might be a well-worn mainstay of the craftsman, marked by the unique imprints of use; it might be a brand new device that promises to change our lives while at the same time exceeding our ability to understand how it works; or it might be an imaginary gadget from the future whose functionality somehow manages to remain legible to us in our newly appreciated historicity.
+    [TABLE THIS -- find a new pivot point with these cinema and SF articles, as a way of talking about the production and representation of "the new" as a topic in media history.  gets us into "what's new about new media" territory.  gesture towards this quicly and move on]
 
 It is precisely this production of the strange and wondrous new—which as Wendy Chun reminds us, is itself “a historical category linked to the rise of modernity”—that science fiction calls into question.  By definition, the new should be a kind of singularity, utterly unexpected and irremediable, an experience that exceeds any known analog:  “the new should have no precedent, should break with the everyday, and thus should be difficult, if not impossible to describe.  If something is new—that is known or made for the first time—then we should, according to Descartes in his influential definition of the new, fall into a passionate state of wonder or surprise.”
 
@@ -129,15 +122,19 @@ So, in looking at the extraliterary history of everyday estrangement profiled by
 
 This was a formative moment for not only science fiction but media studies itself.  In looking at the ways that amateur experimenter magazines sought to describe and reproduce the estranging effects of new technologies, we will witness the emergence of a critical discourse on media long before it became a topic of academic inquiry.
 
+[What was drawn upon in constructing an idea of the new?  Look at these magazines' understanding of their own material specificities]
+
 * * * * * *
 
 # Dime Novel Heritage
 
-While the various types of fiction published in dime novels was too diverse to constitute a genre in and of itself, the reading habits and mode of production that grew up around the dime novels had just as much of an eventual influence on the early twentieth century science magazines as did their subject matter.  In the astute observation of Bill Brown, the dime novel is
+With most critical histories of science fiction focusing on European precursors such as utopian novels, the fantastic journey, and political satire, the dime novel remains one of the most understudied precursors to science fiction.  This is perhaps also the case for the history of American fiction more broadly, considering Bruce Franklin’s influential argument that the dime novel was the dominant literary form in America between the Civil War and World War I.  
+
+While the various types of fiction published in dime novels was too diverse to constitute a genre in and of itself, the reading habits and mode of production that grew up around the dime novels had just as much of an eventual influence on the early twentieth century science fiction magazines as did their subject matter.  In the astute observation of Bill Brown, the dime novel is
 
 >neither a genre per se (like the novel, the romance, the epic) nor simply a subgenre (like the sentimental novel or the detective novel) but rather a subgenre that is inseparable from its systematic modes of production and distribution.
 
-A remarkable history of dime novel production published in a 1904 issue of the New York-based little magazine The Bookman provides us with a portrait of this distribution, hinting at the idea that it was no coincidence that the dime novel blossomed in popularity the very year that the Civil War erupted:
+Take for instance this remarkable history of dime novel production published in a 1904 issue of the New York-based little magazine *The Bookman* provides us with a portrait of this distribution, hinting at the idea that it was no coincidence that the dime novel blossomed in popularity the very year that the Civil War erupted:
 
 >dime novels were sent to the army in the field by cords, like unsaved firewood.  Compact in form, they were easily made up into immense bales, and shipped on any kind of freight car, canal-boat or country wagon. 
 
@@ -175,16 +172,24 @@ The way in which new technologies and innovations were described in these serial
 
 In writing on the effect of “wonder,” Tom Gunning argues that “A discourse of wonder draws our attention to new technology, not simply as a tool, but precisely as a spectacle, less as something that performs a useful task than as something which astounds us by performing in a way that seemed unlikely or magical before.”  
 
-But John Onians writes of both “the physical and mental immobility” produced by wonder, clarifying that “To ‘wonder’ is merely to ask oneself a trivial question, but to feel ‘wonder’ is to acknowledge the impact of an extraordinary sensory experience.  Wonder and questioning are certainly closely connected.”
-
 In the science magazines, the relationship between wonder and knowledge was brought into question, precisely through new technical objects that challenged conventional modes of understanding.
 
 * * * * * *
 
 # Popular Iconography of Possible Media
 
+
+
 # Screwdrivers Substitute for Vision?
 
 maybe exclude this section altogether
 
 # Gesture Toward the Present & Digital Gadgetry
+
+Is digital media fundamentally altering the ways we think, read, communicate, write?  This is not a new sentiment, and in the electrical experimenter magazines we see a means of coming to terms with these revelations/revolutions.
+
+We should remember this -- a new kind of technical literacy might be borne out of it.
+
+* * *
+
+As Tom Gunning writes, “the cycle from wonder to habit need not run only one way.”
