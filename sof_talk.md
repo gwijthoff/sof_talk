@@ -11,7 +11,11 @@ bibliography: /users/grantwythoff/tex/zotero.bib
 
 My overarching research project is a cultural history of the gadget, as both a functional tool and a fictional device.
 
+Use text mining to track the ways that people used this word.  So while originally, in the 1880s, *gadget* referred to something like this, the marlinespike … in the 1950s it refered to …, and today, *gadget* refers to this.  [images]
+
 Say something about "interaction," how it mediates between technology and technique, the hard material of the machine and cultural imaginaries.
+
+I thought today it would be best to jump into one particular context in which a kind of vocabulary was developed to describe this relationship between tools and their affordances, and that's in early twentieth century amateur experimenter magazines.
 
 One of the historically specific contexts that I explore this nexus of technology and fictional thought is in the origins of American science fiction in electrical experimenter catalogs, a context no one has really looked at.
 
@@ -178,11 +182,29 @@ In the science magazines, the relationship between wonder and knowledge was brou
 
 # Popular Iconography of Possible Media
 
+In the Gernsback publications, the technical capabilities of a given device was always less important than what that device implied.  Sometimes, these implications would simply take the form of overblown statistics, as it did for the Telimco, a set “guaranteed to work up to one mile” that in actuality could have had a range of no more than 300-500 feet and whose untuned circuits “must have caused extensive interference to any nearby stations.”  Other times, the writers in the Gernsback publications would follow reports on the latest electrical research and development through to their logical conclusions.  For instance, the concept of transmitting images across a wire isn’t fully articulated by what’s at hand (selenium cell scanning) until certain projected functionalities are built into the apparatus (multiplexed signals and faster image refresh rate, both of which were impossible at the time).
 
+Unlike other technical publications that just reported on the latest electrical R&D, Gernsback and his writers would follow such developments through to their logical conclusions, locating the material conditions of possibility under which a new signal processing technique might be scaled up into an entire medium.  As some of Gernsback’s detractors in science fiction studies are fond of pointing out, advertising rhetoric and speculative fictions operated side by side in the Gernsback magazines.  But in both modes, one finds that depicting a certain gadget means locating the inherence of an entirely new form of communication.
 
-# Screwdrivers Substitute for Vision?
+Regardless of how advanced the devices detailed in the pages of Gernsback’s electrical experimenter magazines seemed—solar cells, automobile mounted radiotelephones, electric keyboards powered by vacuum tubes—his staff reported on them as if they only required a combination of already existing electrical principles and components.  These new media appear as little more than the sum of individual building blocks that one can pick and choose from out of the pages of the *Electro Importing Catalog*.  Technical literacy was encouraged not only through blueprints and instruction manuals for the amateur tinkerer, but also through thought experiments and graphical projections of what these new media might look like.
 
-maybe exclude this section altogether
+The May 1927 cover of *Radio News* portrays a woman sitting next to a television receiver, or more precisely, a mockup of what such a receiver might eventually look like.  The caption asks readers to judge “What’s wrong with this picture?” and send in their answers for the chance to win $300 (possible answers: a single colorized element in an otherwise black and white image; the clock in the broadcasted image displays a different time than that on the wall of the viewer; a transparent screen).  Such a challenge doesn’t require a working knowledge of how to construct a prototype of a television set or read a circuit diagram of how it is to be wired.  Instead, it encourages the viewer to participate in a kind of thought experiment about how something like television might one day function as a part of the furniture of everyday life.
+
+The shape of media to come took on an iconography all its own through the illustrations of Frank R. Paul.  Paul’s depictions of gadgetry circulated widely beyond their original publication venues in a way that has never before been given any attention.  Plans for the osophon, a device Gernsback designed to replace headphones by transmitting sound through vibrations in the jawbone of the listener, were published and reviewed in the German journal *Der Radio-Amateur.*  Paul’s sketch of a man using a tuning fork to calibrate the speed of the 1928 *Science and Invention* Nipkow disk television receiver was republished the following year in the Chinese film journal *Shadow Play Magazine* as an illustration of recent research into television, what was referred to in the article as, directly translated, “wireless cinema.”
+
+According to Weihong Bao, this article surveys recent inventions in cinema and clearly highlights this convertibility and malleability of media (telephone, telegraph, radio, television; plus, sound and color film).  Television was introduced as one of the inventions ‘in the film world’ but the author simultaneously associated it with his childhood fantasy, seeing television as an extension of the telephone, no combining wireless technology and cinema.
+
+Further research into the global circulation of these images could reveal what we might think of as an emergent, transnational media culture in the mid- to late-1920s that thrived off discussions of recombinant media technologies and dreams of a media saturated future.
+
+This popular iconography of possible media, at once legible to the non-expert and open to an informed conversation on how these things of the future might function, was part of a wider culture of devising a language for new media, and provided one of the foundational strands of a science fiction genre.  If not in actual practice, there was a real energy behind the fictive swapping out of components from a given device and remixing them or replacing them with parts that had not yet come into being.  This was a moment of media alchemy, when one needed only to mash up two existing devices or components to imagine the next fantastic advance—for instance the radiophone as a combination of wireless telegraphy and telephony, or the “telephot” as a combination of photography and telephony.
+
+The emphasis in the Gernsback magazines focused not only on the level of the device itself, but also on the kinds of sensory effects that would result from these new combinations, recalling what John Johnston, drawing on Friedrich Kittler calls “partially connected media systems” that interface “a diversity of information and effects.”  For Gernsback’s Electro Importing Company and Experimenter Publishing Company, this modularity was a product of both technical experimentation and a popular means of imagining such hybrid media.  On the one hand, experiments were conducted and reported on at Gernsback’s radio station WRNY with broadcast media and the effects of various instruments and signal processing techniques on the auditory perception of the station’s listeners.  On the other hand, articles and editorials in the magazines would often draw on simple analogies to describe these effects, such as the explanation that “television does for the eye what the telephone does for the ear,” as Gernsback put it, lifting a slightly altered version of the now famous language from Edison’s patent for the kinetoscope, which does for the eye what the phonograph does for the ear.
+
+While television was a real, if not improbable prospect for the work of the basement experimenter, there were other devices Gernsback and his staff reported on that thrived entirely off of the incorporation of projected functionalities not yet within the realm of possibility.  For instance, mobility is often added on to the end of articles covering other innovations or proposed devices to further articulate their potential as a new means of communication or information delivery, a technique we saw in the early reception of wireless telegraphy.  In an Electrical Experimenter article on the “newsophone,” a system in which users call a central telephone exchange that connects them to phonograph recordings of the latest news, the prospect of receiving this information on the go is floated at the article’s close.
+
+> A great dream of the future, which we would like to mention here so that it goes on record, and which most probably the readers of this article will live to see before a great while, is the radio distribution of news by central news agencies in the larger cities, to thousands of radio stations in all parts of the world.  Then any one can simply ‘listen in’ on their pocket wireless set, connected to the nearest metal body such as a radiator, iron bed or umbrella, and receive the ‘Latest News.’
+
+This kind of modularity among actual, proposed, and imagined components of speculative media is characteristic of the coverage of both real and imagined devices, both of which were treated as speculative apparatuses for future improvement.
 
 # Gesture Toward the Present & Digital Gadgetry
 
@@ -190,6 +212,20 @@ Is digital media fundamentally altering the ways we think, read, communicate, wr
 
 We should remember this -- a new kind of technical literacy might be borne out of it.
 
+Revisit "interaction," technique/technology, etc.
+
 * * *
 
 As Tom Gunning writes, “the cycle from wonder to habit need not run only one way.”
+
+Critique of Balsamo on humanists studying the cultural imaginary of technology? (from defense)
+
+This last decade has seen the release of the first smartphone, the rise of the tablet as a "third cateogry" of personal computing devices, and the emergence of mobile media that heralded new cultures of play, attention, consumerism, navigation, flirtation, and collaboration (among others).  Gadgets have seemingly revolutionized the everyday, fulfilling scores of old technological fantasies while outstripping others entirely.
+
+This is not merely of historical interest, precisely because we need to revisit the humanistic dimensions, the *techniques* that are rightly the province of the humanities.
+
+And yet on another level, there is something to the idea that an encounter with a new technology causes an immediate reorientation in the ways we make sense of the world.  The technophiles of today frequently remark that touching the latest Apple product is like "holding the future in your hands,"
+
+![](images/2001monolith.jpg)
+
+as if the iPhone were the next iteration of the *2001: A Space Odyssey* monolith: a sleek black box whose inner workings we couldn't possibly understand but at the same time, somehow, makes us smarter the instant we touch it.  In this mythical explanation of human origins that falls into the gap of Kubrick's famous match cut from the bone club thrown into the air to the spaceship gracefully floating through outer space, we are simply remade by the tool the moment what might be done with it becomes clear.
