@@ -9,11 +9,59 @@ bibliography: /users/grantwythoff/tex/zotero.bib
 
 # Introduction & Overview
 
-My overarching research project is a cultural history of the gadget, as both a functional tool and a fictional device.
+apologize for the fact that I can't stay quite as long as we've been used to during these wonderful lunchtime discussions, since soon after this I have to switch gears pretty radically and teach the Book of Genesis… but I'll try to keep my presentation as brief as possible so that we can have enough time for discussion.
 
-Use text mining to track the ways that people used this word.  So while originally, in the 1880s, *gadget* referred to something like this, the marlinespike … in the 1950s it refered to …, and today, *gadget* refers to this.  [images]
+As … mentioned, I work in both media studies and the digital humanities -- so I'm interested not only in the ways that we as humanists can study technology, but also, increasingly, how those technologies inflect our methodologies as humanists, simply as part of our research workflows and scholarly communications.
 
-Say something about "interaction," how it mediates between technology and technique, the hard material of the machine and cultural imaginaries.
+Specifically, my current research is on the ways people think speculatively and creatively through the nature of a particular tool at hand, whether that device is seen to open up new possibilities that weren't there before, or delimit the possible scope of action.
+
+The figure of the *gadget* epitomizes this process for me, being as it is both a kind of functional and fictional device -- but I'll get to that in a bit.  I thought I'd start out with some background and a general overview of the project itself, before moving on to a more historically specific analysis of a group of people who were trying to codify and describe the ways we think creatively through new media technologies.
+
+When I first conceived of this project, I was interested in the historical recurrence of technological fantasies: projections of future worlds and wondrous possibilities tethered to material shifts in the fabric of the everyday present.  It seemed to me that elements of these fantasies lodge themselves in the cultural reception of new media technologies, providing a language by which we can describe and define their contours.
+
+For instance, fantastic stories of physically "jacking in" to cyberspace in the 1980s allowed us to more concretely imagine the decentralized communities of the Internet, just as the figure of the robot became a symbol of automation in the 1940s and 50s.  Similar to research on literary science fiction, my questions would be about the mechanics of this relationship between the real and the imaginary: what elements of the given world are drawn upon, and to what extent must the fantasy resemble the reality for it to work?
+
+From the beginning, I understood that the project had to be something more than a descriptive catalog, merely noting trends in the representation of X new technology in Y body of literature.  It was the more general problematic that I was after, an inquiry into the smallest, most elemental moments in which those fictions are generated.  But the task itself seemed too large.  Without the contours of a specific corpus on the one hand (since speculations on technological futures utterly suffuse culture, from literature to film to journalism to small talk) or on the other hand, the specificity of a particular fantasy (like communion with the dead or virtual reality), it was difficult to know where to begin.
+
+Luckily for me, the years I attended graduate school coincided with the release of the first smartphone, the rise of the tablet as a "third category" of personal computing devices, and the emergence of mobile media that heralded new cultures of play, attention, consumerism, navigation, flirtation, and collaboration (among others).  Over the past decade, gadgets have revolutionized the everyday, seemingly fulfilling some of those old technological fantasies while outstripping others entirely.
+
+These technologies have their own rich history of dreams and anticipations, but to experience them every day is an entirely different matter altogether.  To have your friend present in the form of a soft glow of light emanating from your cupped hands on the subway, to have your location triangulated (actively and passively) by a network of low earth orbit satellites so that you never again have to worry about being lost, all of these things have been imagined before.  But what future do we imagine ourselves ushering in when we use these devices?  And, what use is the history of fictions about ubiquitous connectivity for the way the actual experience feels?
+
+So, my first step was to start taking this keyword "gadget" seriously.  What initially interested me about the gadget is how the word refers to a concrete object you can hold in your hand and at the same time serves as a placeholder, a stand-in for a tool that has been forgotten, rigged up on the fly, or not yet invented. 
+
+Unlike the more dismissive terms "gizmo" or "widget," which denote insignificant variables with no clear operational value, the gadget is an indeterminate device that is nevertheless fully operable in that it fulfills a particular set of technical and narrative functions.  It is an object that lives a curiously double life as both an actual tool and a fictional device. 
+
+What makes the gadget an important and understudied topic in the cultural history of media technologies is the fact that its fundamental instrumentality changes from decade to decade.  Though the word "gadget" is a sort of empty container for any object whatsoever, the shape of that container changes drastically from its origins in late nineteenth century nautical jargon to its present day association with mobile media.  The functionality of the gadget is redefined for the material needs and fictional desires of each new era.
+
+So, to take the bookends in the title of my talk, originally, *gadget* refered to something like this -- the marlinspike, a curved piece of bone or wood used to splice ropes and undo knots.  As a term of nauical jargon, "gadget" refered to anything that had been…
+
+![](images/fpo-images002.jpg)
+
+The application of the term gradually shifts to individual cogs within the complex machinery of steam ships, rather than the simple rope, pulley, or implement.
+
+![](images/fpo-images003.jpg)
+
+Over the next few decades, the word could refer to specific devices (as the proper name for a wire tying cotton baler, sparking interstate commerce debates in 1905 over the density versus the weight of rail cargo),
+
+![](images/fpo-images004.jpg)
+
+categories of devices (for instance as accessories added on to automobiles in the 1900s, airplanes and guns in the 1910s, and gramophones and cameras in the 1920s),
+
+![](images/fpo-images005.jpg)
+
+and characteristics of devices (signifying in the 1930s something cobbled together from preexisting materials).
+
+![](images/fpo-images006.jpg)
+
+By the end of the 30s, it became possible to speak of the gadget as a mode of thought or a kind of phrase.  
+
+This history of course goes on, leading up to the contemporary connotations of *gadget* as we know it today, but suffice it to say here that
+
+![](images/fpo-images007.jpg)
+
+from halyards to pistons to can-openers to pagers, the wager of my dissertation is that by holding all of these diverse instances together as a set, we will be able to track a distinct evolution in the imaginative space between tools and their users.
+
+====
 
 I thought today it would be best to jump into one particular context in which a kind of vocabulary was developed to describe this relationship between tools and their affordances, and that's in early twentieth century amateur experimenter magazines.
 
@@ -21,13 +69,11 @@ One of the historically specific contexts that I explore this nexus of technolog
 
 # Mumford
 
-One example I usually like to begin with in discussing this material is this article... 
-
 ![](images/fpo-images020.jpg)
 
-...perhaps one of the most interesting specimens in the history of pocket wireless.
+Founded in 1908, Hugo Gernsback's *Modern Electrics* magazine included an "Experimental Department" in each of its monthly issues, a space for readers to submit their home-brewed designs for novel electric devices.  In the April 1911 issue, Lewis Mumford, author of the now-classic history of technology titled *Technics and Civilization*, published his first piece of writing at the age of 15:  a blueprint for a new kind of compact wireless telegraph receiver, described as "
 
-It's not the most technically original, nor is it the most imaginative in terms of the communicative scenario it projects.  However, both its designer and the circumstances of its appearance in the April 1911 issue of Hugo Gernsback's *Modern Electrics* magazine merit our attention.  In the magazine's monthly "Experimental Department," where readers could submit their home-brewed designs for novel electric devices, Lewis Mumford -- author of the now-famous history of media titled *Technics and Civilization* (1934) -- published his first piece of writing at the age of 15:  a blueprint for a new kind of compact wireless receiver.  Flipping back three pages in the same issue, one can find the first installment of Gernsback's serial novel *Ralph 124C 41+:  A Romance of the Year 2660*, one of the earliest works of modern science fiction.
+Flipping back three pages in the same issue, one can find the first installment of Gernsback's serial novel *Ralph 124C 41+:  A Romance of the Year 2660*, one of the earliest works of modern science fiction.
 
 The proximity of this future media theorist's first piece of published writing to one of the foundational works of science fiction is no coincidence.  Lewis Mumford's early preoccupation as a tinkerer took root in a forum for the exchange of designs, components, and visions of the future.  Mumford, who would go on to have a successful career as a literary critic and associate editor of *The Dial*, cites these experiences among a community of tinkerers in the pages of *Modern Electrics* as foundational for his later theories of what he called technology's "spiritual contribution to our culture."
 
@@ -66,7 +112,7 @@ For Michael Wood, fiction can be seen as
 
 While book history takes up the materiality of literature, the materiality of fiction presents us with some potentially thornier questions.  How are ficitons expressed not only in literary form, but in organizations, plans, engineering diagrams, standards, and physical media machines?  How might we conceptualize or model this moment of exchange between the material and the possible?  Science fiction, a literary genre that emerged out of an electrical parts catalog, provides one starting point for such questions.
 
-I'll proceed by providing, first, a crash course in science fiction studies, for those of you who haven't been lifelong fans, as I have -- what's important for our purposes is to look at some attempts that have been made in the field to account for the genre outside of its textual productions.  Second, we'll move into the specific context of the early 20th century electrical experimenter magazines and their significance as media historical documents.  And finally, I'll say a bit about…
+I'll proceed by providing, first, a crash course in science fiction studies, for those of you who haven't been lifelong fans, as I have -- what's important for our purposes is to look at some attempts that have been made in the field to account for the genre outside of its literary productions.  Second, we'll move into the specific context of the early 20th century electrical experimenter magazines and their significance as media historical documents.  And finally, I'll say a bit about…
 
 * * * * * *
 
@@ -104,33 +150,19 @@ For yet another camp of science fiction critics, the experience of science ficti
 
 > The cyberpunks are perhaps the first SF generation to grow up not only within the literary tradition of science fiction but in a truly science-fictional world.
 
-While critical discussions on science fictionality were launched in order to describe certain contours of the contemporary moment, the sense that the world has caught up with its own fantastic dreams is not a recent development, and eslewhere in my project I write on precisely this problem of how the present both comes to terms with and avoids identifying itself as the present that past ages had imagined.  Many film and media scholars have remarked for some time on the inherent science fictionality of media technologies and their realignment of our sense of time and space, cinema foremost among them.^[Michelson, Annette, “Bodies in Space: Film as ‘Carnal Knowledge,’” *Artforum* Vol. 7 No. 6 (1969), pp. 54-63. Michelson, Annette, “On the Eve of the Future: The Reasonable Facsimile and the Philosophical Toy,” *October* vol. 29 (Summer, 1984). Bukatman, Scott, “Who Programs You? The Science Fiction of the Spectacle,” in *Alien Zone: Cultural Theory and Contemporary Science Fiction Cinema,* ed. Annette Kuhn (London: Verso, 1990), pp. 196-213. Bukatman, Scott, “There’s Always Tommorowland: Disney and the Hypercinematic Experience,” *October* 57 (Summer 1991), pp. 55-78.]
+However, while critical discussions on science fictionality were launched in order to describe certain contours of the contemporary moment, the sense that the world has caught up with its own fantastic dreams is not a recent development.  In other words, everyday forms of estrangement are not specific to the rise of electronic or digital media.  Many film scholars, for instance, have remarked for some time on the inherent science fictionality of *historically* new media, the way, for instance, early cinema realigned audiences' sense of time and space.
 
-The question I'm interested in is what type of literary, or rather “fictional” history would result if this approach to science fiction as a particular form of everyday experience was projected back into a reevaluation of the genre as a whole, rather than confined to a particular historical moment within it.  Instead of understanding “science fictionality” as the product of a postmodern accretion of images and narratives, how might we instead revise our understanding of science fiction’s literary history so that it might be seen as a structural inheritance of the genre’s very origins?  
-   
-    [TABLE THIS -- find a new pivot point with these cinema and SF articles, as a way of talking about the production and representation of "the new" as a topic in media history.  gets us into "what's new about new media" territory.  gesture towards this quicly and move on]
-
-It is precisely this production of the strange and wondrous new—which as Wendy Chun reminds us, is itself “a historical category linked to the rise of modernity”—that science fiction calls into question.  By definition, the new should be a kind of singularity, utterly unexpected and irremediable, an experience that exceeds any known analog:  “the new should have no precedent, should break with the everyday, and thus should be difficult, if not impossible to describe.  If something is new—that is known or made for the first time—then we should, according to Descartes in his influential definition of the new, fall into a passionate state of wonder or surprise.”
-
-Chun astutely calls attention to the way that in technological modernity, the new is constructed in advance of any actual encounter with the supposedly unfamiliar object:  
-
-> Actually using the Internet, for instance, is banal in comparison to its pre-mass usage filmic, televisual, and print representations.  To call X 'new' is to categorize it, to describe and prescribe it, while at the same time to insist that X is wonderful, singular, without opposite or precedent.  This insistence more often than not erases X's previous existence (case in point, the 'discovery' of the 'new world.').
-
-Similarly, Tom Gunning describes the “rhetorical tropes and discursive practices” that have benefitted from the valorization of the new in modernity, with its ever-shorter circuits between astonishment and second nature, amazement and explanation:
+This is not just a phenomenological argument.  Tom Gunning describes the “rhetorical tropes and discursive practices” that have benefitted from the valorization of the new in modernity, with its ever-shorter circuits between astonishment and second-nature:
 
 > . . . surprise is learned, fostered and expressed by discursive practices whose implementation brings profit to someone: merchants, policy makers, civic fathers justifying municipal power plants, or any one of a number of interested parties.  Modernity must partly be understood as learning to be surprised by certain innovations, a discourse which valorizes and directs our attention to such changes and the excitement they can provoke.
 
-For science fiction to represent the new, then, presents a paradox.  Without a rhetorical framework within which to project and make sense of the new, it would never become legible to us in the first place.  But the way in which science fiction challenges us to imagine the fantastic through things at hand is what provides it with its productive potential for new forms of knowledge about our world.  As Frederic Jameson argues, science fiction’s “deepest vocation is over and over again to demonstrate and to dramatize our incapacity to imagine the future,” radical difference, otherness, or Utopia.
+So the question I'm interested in is what type of literary -- or rather “fictional” history -- would result if this approach to science fiction as a particular form of everyday experience was projected back into a reevaluation of the genre as a whole, rather than confined to a particular historical moment within it.  Instead of understanding “science fictionality” as the product of a postmodern accretion of images and narratives, or as the product of digital media's rise, how might we instead revise our understanding of science fiction’s history so that it might be seen as a structural inheritance of the genre’s very origins?
 
-So, in looking at the extraliterary history of everyday estrangement profiled by Chun and Gunning and its constitutive role in the history of science fiction, we will want to ask what is “dramatized” by the historical specificities of the new in the early twentieth century.  What were the “rhetorical tropes and discursive practices” of the new drawn upon by scientifiction, the forms of technological experience the genre sought to represent, and what were the forms of knowledge that such representations produced?  An excavation of early science fiction has implications not only for science fiction studies (which largely ignore this period in the history of the genre), but also for media studies and the question of the scale at which it begins to select its objects of study.  At what point does the study of media transition from a question of technical specificity to one of cultural form:  the electrical impulse, the circuit, the individual device or its content, the delivery infrastructure, or system standards?
-
-This was a formative moment for not only science fiction but media studies itself.  In looking at the ways that amateur experimenter magazines sought to describe and reproduce the estranging effects of new technologies, we will witness the emergence of a critical discourse on media long before it became a topic of academic inquiry.
-
-[What was drawn upon in constructing an idea of the new?  Look at these magazines' understanding of their own material specificities]
+In looking at the extraliterary history of estrangement in the early twentieth century, we will want to ask: what were the “rhetorical tropes and discursive practices” of the new drawn upon by scientifiction?  What were the forms of technological experience the genre sought to represent?  And, what kinds of knowledge did such representations enable?
 
 * * * * * *
 
-# Dime Novel Heritage
+# Dime Novels & Popular Science
 
 With most critical histories of science fiction focusing on European precursors such as utopian novels, the fantastic journey, and political satire, the dime novel remains one of the most understudied precursors to science fiction.  This is perhaps also the case for the history of American fiction more broadly, considering Bruce Franklin’s influential argument that the dime novel was the dominant literary form in America between the Civil War and World War I.  
 

@@ -1,3 +1,11 @@
+==== re-use ====
+
+This was a formative moment for not only science fiction but media studies itself.  In looking at the ways that amateur experimenter magazines sought to describe and reproduce the estranging effects of new technologies, we will witness the emergence of a critical discourse on media long before it became a topic of academic inquiry.
+
+An excavation of early science fiction has implications not only for science fiction studies (which largely ignore this period in the history of the genre), but also for media studies and the question of the scale at which it begins to select its objects of study.  At what point does the study of media transition from a question of technical specificity to one of cultural form:  the electrical impulse, the circuit, the individual device or its content, the delivery infrastructure, or system standards?
+
+====
+
 (AD-LIB) Many of the Gernsback covers during the War seem to display nothing more than fantasy wish fulfillment -- the idea that we can encase troops in unstoppable steel machines that destroy all enemy targets using radium-powered weapons, or that we could single-handedly end trench warfare by simply rolling along the length of them, dropping bombs with perfect precision using the machine here.
 
 (SAYVILLE COVER)
@@ -25,4 +33,28 @@ In some, the newly gained perspective proceeds from some quality of the tool its
 * * * * * *
 
 But John Onians writes of both “the physical and mental immobility” produced by wonder, clarifying that “To ‘wonder’ is merely to ask oneself a trivial question, but to feel ‘wonder’ is to acknowledge the impact of an extraordinary sensory experience.  Wonder and questioning are certainly closely connected.”
+
+* * * * * *
+
+One interesting phenomenon in this regard is the way in which the new is constructed in advance of any actual encounter with any supposedly unfamiliar object in technological modernity.  Wendy Chun writes that
+
+> Actually using the Internet, for instance, is banal in comparison to its pre-mass usage filmic, televisual, and print representations.  To call X 'new' is to categorize it, to describe and prescribe it, while at the same time to insist that X is wonderful, singular, without opposite or precedent.  This insistence more often than not erases X's previous existence (case in point, the 'discovery' of the 'new world.').
+
+* * * * * *
+
+Wendy Chun, writing on the new as itself “a historical category linked to the rise of modernity” points out that by definition, the new should be a kind of singularity, utterly unexpected and irremediable, an experience that exceeds any known analog.
+
+> the new should have no precedent, should break with the everyday, and thus should be difficult, if not impossible to describe.  If something is new -- that is known or made for the first time -- then we should, according to Descartes in his influential definition of the new, fall into a passionate state of wonder or surprise.”
+
+For science fiction to represent the new, then, presents a paradox.  Without a rhetorical framework within which to project and make sense of the new, it would never become legible to us in the first place.
+
+But the way in which science fiction challenges us to imagine the fantastic through things at hand is what provides it with its productive potential for new forms of knowledge about our world.  As Frederic Jameson argues, science fiction’s “deepest vocation is over and over again to demonstrate and to dramatize our incapacity to imagine the future,” radical difference, otherness, or Utopia.
+
+====
+
+So the title of this book project is *Gadgetry: New Media and the Fictional Imagination,* and it is a cultural history of the gadget as a particular *genre* of technology.  Gadgets include both actual tools you can hold in your hand and perform certain actions with (we can look around this room right now, or root through our pockets, and come up with some devices we would call gadgets), but they include fictional devices as well: the word can serve as a kind of placeholder for a tool that hasn't been invented yet, or is entirely fantastic.  The gadget is an object that lives a curiously double life as both a functional and fictional device.
+
+What makes the gadget an important and understudied topic in the cultural history of media technologies is the fact that its fundamental instrumentality changes from decade to decade.  Though the word "gadget" is a sort of empty container for any object whatsoever, the shape of that container changes drastically from its origins in late nineteenth century nautical jargon to its present day association with mobile media.  The functionality of the gadget is redefined for the material needs and fictional desires of each new era.
+
+====
 
