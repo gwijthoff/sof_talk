@@ -210,7 +210,11 @@ Writing on the effect of “wonder,” Tom Gunning argues that “wonder draws o
 
 In these electrical experimenter magazines, the relationship between wonder and knowledge was brought into question, precisely through new technical objects that challenged conventional modes of understanding.
 
+* * * * * * 
+
 # Gesture Toward the Present & Digital Gadgetry
+
+(simply end w/ this period? YES. save all the digital stuff for Q&A. how did i end my other talks? columbia? paris? MLA?)
 
 (idea that digital gadgets are invading are brains…)
 
