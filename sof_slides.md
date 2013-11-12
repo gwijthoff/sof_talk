@@ -4,41 +4,30 @@
     \
     Society of Fellows Luncheon Lecture Series
 
-Overview
-------------------------------
-![](images/fpo-images002.jpg)
+# 
+From Marlinspike to Mobile Media
 
+## ![](images/marlinspike1.jpg)
 
-------------------------------
-![](images/fpo-images003.jpg)
+## ![](images/cotton_baler.jpg)
 
-Over the next few decades, the word could refer to specific devices (as the proper name for a wire tying cotton baler, sparking interstate commerce debates in 1905 over the density versus the weight of rail cargo),
+## ![](images/cant_save_gas.jpg)
 
-![](images/fpo-images004.jpg)
+## ![](images/cobbled_hangers.jpg)
 
-categories of devices (for instance as accessories added on to automobiles in the 1900s, airplanes and guns in the 1910s, and gramophones and cameras in the 1920s),
+##
 
-![](images/fpo-images005.jpg)
+"I have found Americans out. They are gadget-minded. They have created a touch-the-button civilization."\
+-Joseph Fort Newton, 1937
 
-and characteristics of devices (signifying in the 1930s something cobbled together from preexisting materials).
+"The machinery of propaganda is made of standardized gadgets by which you can detect it. One of these gadgets is slogans."\
+-Herbert Hoover, 1949
 
-![](images/fpo-images006.jpg)
+## ![](images/marlinspike_to_mobile.jpg)
 
-By the end of the 30s, it became possible to speak of the gadget as a mode of thought or a kind of phrase.  
+# ![](images/mumford_big.jpg)
 
-This history of course goes on, leading up to the contemporary connotations of *gadget* as we know it today, but suffice it to say here that
-
-![](images/fpo-images007.jpg)
-
-from halyards to pistons to can-openers to pagers, the wager of my project is that by holding all of these diverse instances together as a set, we will be able to track a distinct evolution in the imaginative space between tools and their users.
-
-# Overview (w/ slide)
-
-I thought today it would be best to explore one of the historically specific contexts in which a group of people tried to codify and describe the relationship between tools and their affordances, and that's in early twentieth century amateur experimenter magazines.  This is the place that some of the earliest works of modern science fiction was published, and it's the relationship between this literary form and the basement tinkering with new media reported on in these publications that interests me.  (overview of the ouline?)
-
-# Mumford
-
-![](images/fpo-images020.jpg)
+==========================
 
 Founded in 1908, Hugo Gernsback's *Modern Electrics* magazine included an "Experimental Department" in each of its monthly issues, a space for readers to submit their home-brewed designs for novel electric devices.  In the April 1911 issue, Lewis Mumford, author of the now-classic history of media and technology titled *Technics and Civilization*, published his first piece of writing at the age of 15:  a blueprint for a new kind of compact wireless telegraph receiver, described as "a portable wireless outfit, smaller than a small camera, in which sensitiveness is not sacrificed to saving of space."
 

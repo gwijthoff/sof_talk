@@ -31,31 +31,37 @@ Unlike the more dismissive terms "gizmo" or "widget," which denote insignificant
 
 What makes the gadget an important and understudied topic in the cultural history of media technologies is the fact that its fundamental instrumentality changes from decade to decade.  Though the word "gadget" is a sort of empty container for any object whatsoever, the shape of that container changes drastically from its origins in late nineteenth century nautical jargon to its present day association with mobile media.  The functionality of the gadget is redefined for the material needs and fictional desires of each new era.
 
-Originating among sailors in the 1850s as a placeholder for the name of any object that had slipped from memory, *gadget* originally refered to objects like this -- the marlinspike, a curved piece of bone or wood used to splice ropes and undo knots.  And there's a lot of wonderful material in nautical handbooks debating terminology -- whether the gadget is the tool used to perform an action, or the technique of performing that action itself, etc etc.
+![](images/marlinspike1.jpg)
 
-![](images/fpo-images002.jpg)
+Originating among sailors in the 1850s as a placeholder for the name of any object that had slipped from memory, *gadget* originally refered to objects like this -- the marlinspike, a curved piece of bone or wood used to splice ropes and undo knots.  And there's a lot of wonderful material in nautical handbooks debating terminology -- whether the gadget is the tool used to perform an action, or the technique of performing that action itself, etc etc.
 
 By 1900, the application of the term gradually shifts to individual cogs within the complex machinery of steam ships, rather than the simple rope, pulley, or implement.
 
-![](images/fpo-images003.jpg)
+![](images/cotton_baler.jpg)
 
 Over the next few decades, the word could refer to specific devices (as the proper name for a wire tying cotton baler, sparking interstate commerce debates in 1905 over the density versus the weight of rail cargo),
 
-![](images/fpo-images004.jpg)
+![](images/cant_save_gas.jpg)
 
 categories of devices (for instance as accessories added on to automobiles in the 1900s, airplanes and guns in the 1910s, and gramophones and cameras in the 1920s),
 
-![](images/fpo-images005.jpg)
+![](images/cobbled_hangers.jpg)
 
 and characteristics of devices (signifying in the 1930s something cobbled together from preexisting materials).
 
-![](images/fpo-images006.jpg)
+```
+"I have found Americans out. They are gadget-minded. They have created a touch-the-button civilization."\
+-Joseph Fort Newton, 1937
+
+"The machinery of propaganda is made of standardized gadgets by which you can detect it. One of these gadgets is slogans."\
+-Herbert Hoover, 1949
+```
 
 By the end of the 30s, it became possible to speak of the gadget as a mode of thought or a kind of phrase.  
 
 This history of course goes on, leading up to the contemporary connotations of *gadget* as we know it today, but suffice it to say here that
 
-![](images/fpo-images007.jpg)
+![](marlinspike_to_mobile.jpg)
 
 from halyards to pistons to can-openers to pagers, the wager of my project is that by holding all of these diverse instances together as a set, we will be able to track a distinct evolution in the imaginative space between tools and their users.
 
