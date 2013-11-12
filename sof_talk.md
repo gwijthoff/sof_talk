@@ -11,9 +11,9 @@ bibliography: /users/grantwythoff/tex/zotero.bib
 
 As Holger mentioned, I work in both media studies and the digital humanities -- which means that I'm interested not only in the ways that we as humanists can study technology, but also, increasingly, how those technologies inflect our methodologies as humanists, simply as part of our research workflows and scholarly communications.
 
-Specifically, my current book project, titled *Gadgetry: New Media and the Fictional Imagination* is about the ways people imagine what can be done with a given technology.  This includes everything from the macro level of new cultural forms and practices that emerge from mass media, to the micro level of the individual user picking up a tool and thinking through what can be done with it, what that tool makes possible that wasn't before.  For me, the figure of the gadget, refering to both specific and fictional tools, crystallizes this relationship between technology and the imagination.
+Specifically, my current book project, titled *Gadgetry: New Media and the Fictional Imagination* is about the ways people imagine what can be done with a given technology.  This includes everything from the macro level of new cultural forms and practices that emerge from mass media, down to the micro level of the individual user picking up a tool and thinking through what can be done with it, what that tool makes possible that wasn't before.  For me, the figure of the gadget, refering to both specific and fictional tools, crystallizes this relationship between technology and the imagination.
 
-But when I first conceived of this project, I was interested very broadly in the historical recurrence of technological fantasies: projections of future worlds and wondrous possibilities tethered to material shifts in the fabric of the everyday present.  It seemed to me that elements of these fantasies lodge themselves in the cultural reception of new media technologies, providing a language by which we can describe and define their contours.
+When I first conceived of this project, I was interested very broadly in the historical recurrence of technological fantasies: projections of future worlds and wondrous possibilities tethered to material shifts in the fabric of the everyday present.  It seemed to me that elements of these fantasies lodge themselves in the cultural reception of new media technologies, providing a language by which we can describe and define their contours.
 
 For instance, fantastic stories of physically "jacking in" to cyberspace in the 1980s allowed us to more concretely imagine the decentralized communities of the Internet (AD LIB, concensual hallucination, William Gibson *Neuromancer*)
 
@@ -33,21 +33,27 @@ What makes the gadget an important and understudied topic in the cultural histor
 
 ![](images/marlinspike1.jpg)
 
-Originating among sailors in the 1850s as a placeholder for the name of any object that had slipped from memory, *gadget* originally refered to objects like this -- the marlinspike, a curved piece of bone or wood used to splice ropes and undo knots.  And there's a lot of wonderful material in nautical handbooks debating terminology -- whether the gadget is the tool used to perform an action, or the technique of performing that action itself, etc etc.
+Originating among sailors in the 1850s, the word *gadget* was a term of nautical jargon, serving as a placeholder for the name of any object on board a ship that had slipped from memory.  The marlinspike was one such tool, a cured piece of bone or wood used to splice ropes and undo knots, and the gadget *par excellence* for sailors who valued simple tools with a huge range of applications.
 
-By 1900, the application of the term gradually shifts to individual cogs within the complex machinery of steam ships, rather than the simple rope, pulley, or implement.
+The deceivingly simple nautical origins of the gadget as a generic name for anything in fact already contained some of the complexities that would provide the word such a wide applicability throughout the twentieth century.  For instance, there's a lot of wonderful material in nautical handbooks debating terminology and organizing entire lexicons of object babble according to priority of use and usability.  One recommends, for instance, that "*gilhickey* should only ever used to distinguish one gadget from another.  The first gadget is the gadget.  The second gadget in any situation in which two appear is the gilhickey."
+
+Other times, rather than simply referring to a particular object, gadget might imply a particular style of performing an action -- in this nautical setting, usually through economy of means, using the simplest technique for achieving the most effective result -- although more styles of performing tasks will surface later in the word’s history.  At times, it becomes unclear whether the gadget is the tool used to perform an action, or the technique of performing that action itself.  Thus *gadget* might also imply a form of knowing that is related but not reducible to the tools required to accomplish a particular task.  In other words, it’s not only a question of tools, but sufficient training or expertise in their applications.
+
+It's precisely this plasticity of the gadget that allows it to quickly migrate into a number of other contexts.  As the nineteenth century comes to a close, the application of the term begins to shift to the individual cogs or elements within the complex machinery of steam ships, rather than the simple rope, pulley, or implement aboard sailing ships.  
 
 ![](images/cotton_baler.jpg)
 
-Over the next few decades, the word could refer to specific devices (as the proper name for a wire tying cotton baler, sparking interstate commerce debates in 1905 over the density versus the weight of rail cargo),
+Over the next few decades, the word began to refer to specific devices:  for instance as the proper name for a wire tying cotton baler, sparking interstate commerce debates in 1905 over the density versus the weight of rail cargo; or, as the name for a coupling mechanism that quickly and easily connected massive underground tunnel segments to a crane, doing away with the need for hundreds of thousands of cast iron lugs during the 1909 construction of the East River Tunnel in New York, connecting Penn Station to Long Island City.
 
 ![](images/cant_save_gas.jpg)
 
-categories of devices (for instance as accessories added on to automobiles in the 1900s, airplanes and guns in the 1910s, and gramophones and cameras in the 1920s),
+In the 1910s, *gadget* becomes associated with modifications, improvements, and additions to existing technical systems, rather than new devices constructed whole cloth.  These modifications tend to cluster around airplanes and guns in the 1910s, automobiles in the 1920s, and gramophones and cameras by the 1930s.
+
+To give you one example, debates over the merits of gadgetry among automobile engineers and designers focused on the importance of the information that new kinds of dashboard gauges displayed for the driver, questioning whether it was trivial to know, for instance, the top speed of an automobile over the course of a trip, the precise water temperature circulating through the engine, or each tire's pressure.  Uses like this begin to shift the emphasis away from the physicality of the gadget, giving equal importance to the legibility and necessity of the data it provides, a movement away from the tool itself and toward what it communicates.
 
 ![](images/cobbled_hangers.jpg)
 
-and characteristics of devices (signifying in the 1930s something cobbled together from preexisting materials).
+Later, *gadget* can refer to characteristics of devices, signifying by the 1930s something cobbled together from preexisting, household materials.  A 1930 magazine article on innovation in the domestic sphere argues that "women . . . have the advantage over men of knowing what is wanted in the sphere of domestic inventions.  Every housewife is an inventor, because almost every day of her life, she is making something new or devising some gadget.”  Multiple-page photo spreads in popular magazines would be devoted to the construction of these devices, promising that workflows previously requiring a great amount of attention or labor could be economized through improvised material expedients, like a curved and flattened knife tip for removing newspaper wrappers; slices of rubber tubing pulled over a dog’s nails to prevent scratching; or impromptu pliers made out of metal coat hangers.
 
 ```
 "I have found Americans out. They are gadget-minded. They have created a touch-the-button civilization."\
@@ -57,17 +63,17 @@ and characteristics of devices (signifying in the 1930s something cobbled togeth
 -Herbert Hoover, 1949
 ```
 
-By the end of the 30s, it became possible to speak of the gadget as a mode of thought or a kind of phrase.  
+By the end of the 30s, it became possible to speak of the gadget as a mode of thought or a kind of phrase.  Public opinion polls were referred to as “social gadgets,” honest debate was understood to be free of any, and The New Deal was depicted as a collection of interlocking gadgets to solve a massive economic crisis.  Gadget had outgrown its primarily technical heritage, with derivatives beginning to emerge like gadget idea, gadget-minded, and gadgeteer.
 
-This history of course goes on, leading up to the contemporary connotations of *gadget* as we know it today, but suffice it to say here that
+This history of course goes on, leading up to the contemporary connotations of the word as we know it today -- related to digital media and mobile devices -- but suffice it to say here that
 
 ![](marlinspike_to_mobile.jpg)
 
-from halyards to pistons to can-openers to pagers, the wager of my project is that by holding all of these diverse instances together as a set, we will be able to track a distinct evolution in the imaginative space between tools and their users.
+from halyards to pistons to can-openers to walkie-talkies, the wager of this project is that by holding all of these diverse instances together as a set, we will be able to track a distinct evolution in the imaginative space between tools and their users.  While gadgets are usually passed over in the history of technology as trivial outliers, I argue the contrary throughout my book:  that they represent elemental moments in which we, as users of technology who negotiate a unique and intensely personal *syntax* with our tools, tacitly debate the merits of usefulness and sheer aesthetic pleasure, handmade and industrially produced expedients, consumer desire and cultural production.
 
 # Overview (w/ slide)
 
-I thought today it would be best to explore one historically specific context in which a group of people tried to codify and describe the relationship between tools and their affordances, and that's in early twentieth century magazines made for amateur experimenters -- basically companion pieces and community forums for people tinkering with home-brewed radio sets and prototype televisions around 1910.  These magazines ended up publishing some of the earliest works of modern science fiction -- which was referred to then as "scientifiction" -- and it's the relationship between tinkering and literary form in these publications that I'd like to focus on for the remainder of my talk. (6:45)
+I thought today it would be best to explore one historically specific context in which a group of people tried to codify and describe the relationship between tools and their affordances, and that's in early twentieth century magazines made for amateur experimenters -- basically companion pieces and community forums for people tinkering with home-brewed radio sets and prototype televisions around 1910.  These magazines ended up publishing some of the earliest works of modern science fiction -- which was referred to then as "scientifiction" -- and it's the relationship between tinkering and literary form in these publications that I'd like to focus on for the remainder of my talk.
 
 # Mumford
 
