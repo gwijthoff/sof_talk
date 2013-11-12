@@ -11,11 +11,13 @@ bibliography: /users/grantwythoff/tex/zotero.bib
 
 As Holger mentioned, I work in both media studies and the digital humanities -- which means that I'm interested not only in the ways that we as humanists can study technology, but also, increasingly, how those technologies inflect our methodologies as humanists, simply as part of our research workflows and scholarly communications.
 
-Specifically, my current book project, titled *Gadgetry: New Media and the Fictional Imagination* is on the ways people imagine what can be done with a given technology, the way in which, for instance, a user picks up a tool and thinks through either its practical limitations or what can be done with it that wasn't possible before.
+Specifically, my current book project, titled *Gadgetry: New Media and the Fictional Imagination* is about the ways people imagine what can be done with a given technology.  This includes everything from the macro level of new cultural forms and practices that emerge from mass media, to the micro level of the individual user picking up a tool and thinking through what can be done with it, what that tool makes possible that wasn't before.  For me, the figure of the gadget, refering to both specific and fictional tools, crystallizes this relationship between technology and the imagination.
 
-When I first conceived of this project, I was interested very broadly in the historical recurrence of technological fantasies: projections of future worlds and wondrous possibilities tethered to material shifts in the fabric of the everyday present.  It seemed to me that elements of these fantasies lodge themselves in the cultural reception of new media technologies, providing a language by which we can describe and define their contours.
+But when I first conceived of this project, I was interested very broadly in the historical recurrence of technological fantasies: projections of future worlds and wondrous possibilities tethered to material shifts in the fabric of the everyday present.  It seemed to me that elements of these fantasies lodge themselves in the cultural reception of new media technologies, providing a language by which we can describe and define their contours.
 
-For instance, fantastic stories of physically "jacking in" to cyberspace in the 1980s allowed us to more concretely imagine the decentralized communities of the Internet, just as the figure of the robot became a symbol of automation in the 1940s and 50s.  Similar to research on literary science fiction, my questions would be about the mechanics of this relationship between the real and the imaginary: what elements of the given world are drawn upon, and to what extent must the fantasy resemble the reality for it to work?
+For instance, fantastic stories of physically "jacking in" to cyberspace in the 1980s allowed us to more concretely imagine the decentralized communities of the Internet (AD LIB, concensual hallucination, William Gibson *Neuromancer*)
+
+In the same way, the figure of the robot became a symbol of automation in the 1940s and 50s, personifying the still unfamiliar technology of the computer.  Similar to research on literary science fiction, my questions would be about the mechanics of this relationship between the real and the imaginary: what elements of the given world are drawn upon, and to what extent must the fantasy resemble the reality for it to work?
 
 From the beginning, I understood that the project had to be something more than a descriptive catalog, merely noting trends in the representation of X new technology in Y body of literature.  It was the more general problematic that I was after, an inquiry into the smallest, most elemental moments in which those fictions are generated.  But the task itself seemed too large.  Without the contours of a specific corpus on the one hand (since speculations on technological futures utterly suffuse culture, from literature to film to journalism to small talk) or on the other hand, the specificity of a particular fantasy (like communion with the dead or virtual reality), it was difficult to know where to begin.
 
@@ -59,7 +61,7 @@ from halyards to pistons to can-openers to pagers, the wager of my project is th
 
 # Overview (w/ slide)
 
-[Scientifiction as a keyword??] I thought today it would be best to explore one of the historically specific contexts in which a group of people tried to codify and describe the relationship between tools and their affordances, and that's in early twentieth century amateur experimenter magazines.  This is the place that some of the earliest works of modern science fiction was published, and it's the relationship between this literary form and the basement tinkering with new media reported on in these publications that interests me.  (6:45)
+I thought today it would be best to explore one historically specific context in which a group of people tried to codify and describe the relationship between tools and their affordances, and that's in early twentieth century magazines made for amateur experimenters -- basically companion pieces and community forums for people tinkering with home-brewed radio sets and prototype televisions around 1910.  These magazines ended up publishing some of the earliest works of modern science fiction -- which was referred to then as "scientifiction" -- and it's the relationship between tinkering and literary form in these publications that I'd like to focus on for the remainder of my talk. (6:45)
 
 # Mumford
 
@@ -85,7 +87,9 @@ Today, the phrase "science fiction" conjures up images of bug-eyed monsters, ray
 
 For Gernsback, "science" is synonymous with "applied science," an amalgam of science and technology that saw no division between the explanation of complex things and the often fantastic incursion of those things into modern life.  The paradox at the heart of Gernsback's project is that science, that supposed vehicle of enlightenment rationality, can *itself* produce enchantment and wonder.
 
-This is not a perspective unique to Gernsback's emphasis on the *applied* sciences.  As Philip Fisher reminds us, it is often the very act of scientifc explanation that renders the object or phenomenon in question marvelously strange: "every stage of explanation . . . has consistently dispelled the extraordinary only to produce, in the very act of explanation, newer forms of wonder."
+This is not a perspective unique to Gernsback's emphasis on the *applied* sciences.  As Philip Fisher reminds us, it is often the very act of scientifc explanation that renders the object or phenomenon in question marvelously strange:
+
+> every stage of explanation . . . has consistently dispelled the extraordinary only to produce, in the very act of explanation, newer forms of wonder.
 
 Our literary historical challenge in working with this material, then, is to recover the sense of radical openness that greeted not only the basement tinkerer working through the feasibility of transmitting images over a wire, but also the author of "scientifiction" stories (as they called it then) who possessed a highly sophisticated awareness of the fact that . . . 
 
@@ -106,7 +110,7 @@ For Michael Wood, fiction can be seen as
 
 While book history takes up the materiality of literature, the materiality of fiction presents us with some potentially thornier questions.  How are ficitons expressed not only in literary form, but in organizations, plans, engineering diagrams, standards, and physical media machines?  How might we conceptualize or model this moment of exchange between the material and the possible?  Science fiction, a literary genre that emerged out of an electrical parts catalog, provides one starting point for such questions.
 
-(In the remainder of my time,) I'll proceed by providing, first, a crash course in science fiction studies, for those of you who haven't been lifelong fans, as I have.  What's important for our purposes is to look at some attempts that have been made in the field to account for the genre outside of its literary productions.  Second, we'll take a look at some of those early 20th century electrical experimenter magazines and their significance as media historical documents.  And finally, I'll say a bit about the significance of this moment for contemporary conversations on gadgetry.  [WATER] (15:30)
+I'll proceed by providing, first, a crash course in science fiction studies, for those of you who haven't been lifelong fans, as I have.  What's important for our purposes is to look at some attempts that have been made in the field to account for the genre outside of its literary productions.  Second, we'll take a look at some of those early 20th century electrical experimenter magazines and their significance as media historical documents.  And finally, I'll say a bit about what makes this moment interesting for contemporary conversations on gadgetry.  [WATER] (15:30)
 
 * * * * * *
 
@@ -240,7 +244,13 @@ Magic, when it is spoken of in relation to technology, usually implies a kind of
 
 Are digital media fundamentally altering the ways we think, read, communicate, write?  This is not a new sentiment, and in the electrical experimenter magazines we see a means of coming to terms with these revelations/revolutions.
 
-We should remember this -- a new kind of technical literacy might be borne out of it.
+=
+
+This was a formative moment for not only science fiction but media studies itself.  These amateur experimenter magazines sought to describe and reproduce the estranging effects of new technologies, in effect giving rise to a critical discourse on media long before it became a topic of academic inquiry.
+
+An excavation of early science fiction has implications not only for science fiction studies (which largely ignore this period in the history of the genre), but also for media studies and the question of the scale at which it begins to select its objects of study.  At what point does the study of media transition from a question of technical specificity to one of cultural form:  the electrical impulse, the circuit, the individual device or its content, the delivery infrastructure, or system standards?
+
+=
 
 Revisit "interaction," technique/technology, etc.
 
@@ -251,8 +261,6 @@ And yet on another level, there is something to the idea that an encounter with 
 ![](images/2001monolith.jpg)
 
 as if the iPhone were the next iteration of the *2001: A Space Odyssey* monolith: a sleek black box whose inner workings we couldn't possibly understand but at the same time, somehow, makes us smarter the instant we touch it.  In this mythical explanation of human origins that falls into the gap of Kubrick's famous match cut from the bone club thrown into the air to the spaceship gracefully floating through outer space, we are simply remade by the tool the moment what might be done with it becomes clear.
-
-Setting aside questions of cognition and neurophysicology, I am interested in finding a language for this kind of fictive energy so that we might be able to register and historicize the perceived pressures of technological change.  Despite the fact that we cannot say in any sense whether we are biologically "evolving" with digital media, a deeper history of gadgetry will allow us to track an evolution in the imaginative dimensions constitutive of all technical interaction.
 
 =
 
