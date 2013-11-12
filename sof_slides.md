@@ -27,6 +27,8 @@ From Marlinspike to Mobile Media
 
 # ![](images/mumford_big.jpg)
 
+# <iframe width="420" height="315" src="//www.youtube.com/embed/f2AjPfHTIS4" frameborder="0" allowfullscreen></iframe>
+
 ==========================
 
 Founded in 1908, Hugo Gernsback's *Modern Electrics* magazine included an "Experimental Department" in each of its monthly issues, a space for readers to submit their home-brewed designs for novel electric devices.  In the April 1911 issue, Lewis Mumford, author of the now-classic history of media and technology titled *Technics and Civilization*, published his first piece of writing at the age of 15:  a blueprint for a new kind of compact wireless telegraph receiver, described as "a portable wireless outfit, smaller than a small camera, in which sensitiveness is not sacrificed to saving of space."
