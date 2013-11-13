@@ -55,19 +55,18 @@ To give you one example, debates over the merits of gadgetry among automobile en
 
 Later, *gadget* can refer to characteristics of devices, signifying by the 1930s something cobbled together from preexisting, household materials.  A 1930 magazine article on innovation in the domestic sphere argues that "women . . . have the advantage over men of knowing what is wanted in the sphere of domestic inventions.  Every housewife is an inventor, because almost every day of her life, she is making something new or devising some gadget.”  Multiple-page photo spreads in popular magazines would be devoted to the construction of these devices, promising that workflows previously requiring a great amount of attention or labor could be economized through improvised material expedients, like a curved and flattened knife tip for removing newspaper wrappers; slices of rubber tubing pulled over a dog’s nails to prevent scratching; or impromptu pliers made out of metal coat hangers.
 
-```
-"I have found Americans out. They are gadget-minded. They have created a touch-the-button civilization."\
--Joseph Fort Newton, 1937
+> [**SLIDE**]
+> "I have found Americans out. They are gadget-minded. They have created a touch-the-button civilization."\
+> -Joseph Fort Newton, 1937
 
-"The machinery of propaganda is made of standardized gadgets by which you can detect it. One of these gadgets is slogans."\
--Herbert Hoover, 1949
-```
+> "The machinery of propaganda is made of standardized gadgets by which you can detect it. One of these gadgets is slogans."\
+> -Herbert Hoover, 1949
 
 By the end of the 30s, it became possible to speak of the gadget as a mode of thought or a kind of phrase.  Public opinion polls were referred to as “social gadgets,” honest debate was understood to be free of any, and The New Deal was depicted as a collection of interlocking gadgets to solve a massive economic crisis.  Gadget had outgrown its primarily technical heritage, with derivatives beginning to emerge like gadget idea, gadget-minded, and gadgeteer.
 
 This history of course goes on, leading up to the contemporary connotations of the word as we know it today -- related to digital media and mobile devices -- but suffice it to say here that
 
-![](marlinspike_to_mobile.jpg)
+![](images/marlinspike_to_mobile.jpg)
 
 from halyards to pistons to can-openers to walkie-talkies, the wager of this project is that by holding all of these diverse instances together as a set, we will be able to track a distinct evolution in the imaginative space between tools and their users.  While gadgets are usually passed over in the history of technology as trivial outliers, I argue the contrary throughout my book:  that they represent elemental moments in which we, as users of technology who negotiate a unique and intensely personal *syntax* with our tools, tacitly debate the merits of usefulness and sheer aesthetic pleasure, handmade and industrially produced expedients, consumer desire and cultural production.
 
@@ -77,7 +76,7 @@ I thought today it would be best to explore one historically specific context in
 
 # Mumford
 
-![](images/fpo-images020.jpg)
+![](images/mumford_big.jpg)
 
 Founded in 1908, Hugo Gernsback's *Modern Electrics* magazine published an "Experimental Department" in each of its monthly issues, a space for readers to submit their home-brewed designs for novel electric devices.  In the April 1911 issue, Lewis Mumford, author of the now-classic history of media and technology titled *Technics and Civilization*, published his first piece of writing at the age of 15:  a blueprint for a new kind of compact wireless telegraph receiver, described as "a portable wireless outfit, smaller than a small camera, in which sensitiveness is not sacrificed to saving of space."
 
@@ -85,30 +84,30 @@ Flipping back three pages in the same issue, one can find the first installment 
 
 The proximity of this future media theorist's first piece of published writing to one of the foundational works of science fiction is no coincidence.  Lewis Mumford's early preoccupation as a tinkerer took root in a forum for the exchange of designs, components, and visions of the future.  Mumford, who would go on to have a successful career as, among many many other things, a literary critic and associate editor of *The Dial*, cites these experiences among a community of tinkerers in the pages of *Modern Electrics* as foundational for his later theories of what he called technology's "spiritual contribution to our culture."
 
-![](images/fpo-images021.jpg)
+![](images/me_cover_hypnobio.jpg)
 
 *Modern Electrics*, which began as a mail-order catalogue for exotic, imported wireless parts, gradually evolved into "A magazine devoted entirely to the Electrical Arts."  The magazine profiled international developments in new media technologies, summarized the latest U.S. Patents awarded to electrical experimenters, and solicited amateur blueprints, designs, and techniques from readers.  What sets *Modern Electrics* apart from other technical publications of the period like *The Wireless Age* and *QST* is the way in which its writers enlisted fiction in their attempts to find a language suited to the analysis of emerging media such as radio, television, or the more exotic osophone and telegraphone.  
 
 For instance, when readers submitting a design encountered difficulties in describing its specifications -- perhaps a certain component was technically or economically unfeasible -- they would stitch their incomplete engineering diagrams together with narrative threads.  In a tradition that continued throughout Gernsback's later publications -- including *Electrical Experimenter, Radio News, Science and Invention,* and most famously, *Amazing Stories* (the first ever science fiction magazine) -- *Modern Electrics* pioneered a kind of writing that combined hard technical description with an openness to the fantastic.  It was a mixture out of which an entire literary genre emerged to tackle the question of the distinctive specificity of "medium" in a new wireless age.
 
-![](images/fpo-images022.jpg)
-
 Today, the phrase "science fiction" conjures up images of bug-eyed monsters, ray guns, starships, and sonic screwdrivers.  But in the opening decades of the twentieth century, before a century's accretion of images, narratives, and cliches, that which was not yet called science fiction consisted of a great number of concrete practices all geared toward a reckoning with the technological revolutions in everyday life.  "Science," wrote Gernsback in the inaugural issue of *Amazing Stories*,
 
-> through its various branches of mechanics, astronomy, etc., enters so intimately into all our lives today, and we are so much immersed in this science, that we have become rather prone to take new inventions and discoveries for granted.  Our entire mode of living has been changed with the present progress, and it is little wonder, therefore, that many fantastic situations ... are brought about today.  It is in these situations that the new romancers find their great inspiration. ^[@gernsback1927]
+> through its various branches of mechanics, astronomy, etc., enters so intimately into all our lives today, and we are so much immersed in this science, that we have become rather prone to take new inventions and discoveries for granted.  Our entire mode of living has been changed with the present progress, and it is little wonder, therefore, that many fantastic situations ... are brought about today.  It is in these situations that the new romancers find their great inspiration.
 
 For Gernsback, "science" is synonymous with "applied science," an amalgam of science and technology that saw no division between the explanation of complex things and the often fantastic incursion of those things into modern life.  The paradox at the heart of Gernsback's project is that science, that supposed vehicle of enlightenment rationality, can *itself* produce enchantment and wonder.
 
-This is not a perspective unique to Gernsback's emphasis on the *applied* sciences.  As Philip Fisher reminds us, it is often the very act of scientifc explanation that renders the object or phenomenon in question marvelously strange:
-
-> every stage of explanation . . . has consistently dispelled the extraordinary only to produce, in the very act of explanation, newer forms of wonder.
+This is not a perspective unique to Gernsback's emphasis on the *applied* sciences.  As Philip Fisher reminds us, it is often the very act of scientifc explanation that renders the object or phenomenon in question marvelously strange.  He writes, "every stage of explanation . . . has consistently dispelled the extraordinary only to produce, in the very act of explanation, newer forms of wonder."
 
 Our literary historical challenge in working with this material, then, is to recover the sense of radical openness that greeted not only the basement tinkerer working through the feasibility of transmitting images over a wire, but also the author of "scientifiction" stories (as they called it then) who possessed a highly sophisticated awareness of the fact that . . . 
 
 >Two hundred years ago, stories of this kind were not possible.\
 -Gernsback, "A New Sort of Magazine
 
+![](images/sws_cover_goggles.jpg)
+
 Often, these individuals were one and the same, weaving together functional and fictional devices in a manner that served for them as a form of scientific discovery in itself.
+
+[**MUTE**]
 
 Today, I will examine the circumstances of science fiction's invention in America.  In contrast to the deeper history of utopias and political satires in the European tradition that would be drawn upon in the twentieth century by H.G. Wells, Olaf Stapledon, Aldous Huxley, and J.G. Ballard, I will argue that science fiction emerged in America as a discourse on media.  While some of the most influential histories of science fiction have subsumed the genre within a larger continuum of utopian literature (as does Frederic Jameson with his emphasis on the transihistorical "desire called utopia"), this approach ends up emphasizing the vast worldbuilding enterprises of the American left (as in Ignatius Donnelly's *Caesar's Column* from 1890 and Edward Bellamy's 1888 record best seller *Looking Backward*), while papering over the smaller-scale, everyday concerns of the technologists and technocrats on the other side of the Atlantic (most notably, Rudyard Kipling).
 
@@ -132,7 +131,7 @@ One would be hard pressed to find a formulation in the lexicon of literary criti
 
 First put forward in “On the Poetics of the Science Fiction Genre” (1972), the phrase “cognitive estrangement” defined the “necessary and sufficient conditions” of a genre
 
-> whose main formal device is an imaginative framework alternative to the author's empirical environment. \[full quote on slide]\
+> [**QUOTE**] whose main formal device is an imaginative framework alternative to the author's empirical environment.
 
 According to this model, science fiction is premised on a process of “estrangement” in that the literary gambit of the individual work consists of a “what if” question directed away from whatever we accept to be this world.  Importantly, this movement away from our world must be “cognitive.”  That is, the fictional hypothesis of the work is elaborated with objective, “scientific” rigor—it has to be plausible.
 
@@ -146,15 +145,17 @@ Contemporary science fiction author China Miéville takes a more pointed approac
 
 Suvin's notion of scientific "cognition" thus ignores not only the social construction of what counts as scientific fact, but also the works inspired by the New Wave of 1960s science fiction whose extrapolations proceed not from “science” but conceptions of gender, race, class, psychology, and sexuality.
 
+[**MUTE**]
+
 For other critics, the fact that Suvin focuses only on literary works of science fiction (a model which, furthermore, Suvin himself admits excludes 95% of what is published *as* science fiction) is enough to render his model useless, as it ignores the output of the genre in film, television, comics, performance and visual art, and even some types of critical theory.  Istvan Csicsery-Ronay takes a more catholic approach in his book *The Seven Beauties of Science Fiction* (2008), a catalog of the formal markers native to the genre.  Surveying the many varieties of aesthetic experience science fiction can take up in all of its various media, Csicsery-Ronay even allows for the possibility that science fiction might be seen as a certain modality of lived experience in what he calls our thoroughly “technologized world.”
 
-> The widespread normalization of what is essentially a style of estrangement and dislocation has stimulated the development of science-fictional habits of mind, so that we no longer treat SF as purely a genre-engine producing formulaic effects, but rather as a kind of awareness we might call science-fictionality, a mode of response that frames and tests experiences as if they were aspects of a work of science fiction. . . .  Most people merely bracket difficult-to-process, incongruous moments of technology’s intersection with everyday life as science-fictional moments.
+> [**QUOTE**] The widespread normalization of what is essentially a style of estrangement and dislocation has stimulated the development of science-fictional habits of mind, so that we no longer treat SF as purely a genre-engine producing formulaic effects, but rather as a kind of awareness we might call science-fictionality, a mode of response that frames and tests experiences as if they were aspects of a work of science fiction. . . .  Most people merely bracket difficult-to-process, incongruous moments of technology’s intersection with everyday life as science-fictional moments. [**ENDQUOTE**]
 
 This affective turn toward “science fictionality,” an expansion of the poetics of a literary genre into a category of experience, constitutes one of the more interesting developments in science fiction studies over the past decade or so.  In its simplest formulation, the idea circulates as a truism that “the world finally has caught up with science fiction.”  Many instances of this saying attempt to highlight the way in which the rate of technological change feels like it outpaces any attempt to understand the significance of that incursion in our daily lives.  Others try to come to terms with the fact that many of the genre’s imagined futures never came to pass, as in the popularity of retrofuturist books like *Where’s My Jetpack?* and blogs like Paleofuture, both of which explore how images of futures past sync up with the present in uncanny ways.
 
 Some scholars in science fiction studies encouraged a shift in the field's focus toward science fictionality in order to account for a media historically specific shift.  Brooks Landon, for instance, writes of his
 
-> belief that contemporary electronic technology has so displaced the savor of potentiality from stories about ‘great vistas in time and space’ to ways in which we actually experience time and space anew, that our culture now unconsciously brings to the experience of film and electronic media expectations very similar to those of the traditional SF reader.
+> [**QUOTE**] belief that contemporary electronic technology has so displaced the savor of potentiality from stories about ‘great vistas in time and space’ to ways in which we actually experience time and space anew, that our culture now unconsciously brings to the experience of film and electronic media expectations very similar to those of the traditional SF reader.
 
 For yet another camp of science fiction critics, the experience of science fictionality itself is the product of a postmodern accretion of text upon text to the point that “the literature of the future has a long and honored past,” as Bruce Sterling writes in the preface to his famous anthology of 1980s cyberpunk fiction, *Mirrorshades*: 
 
@@ -174,9 +175,11 @@ In looking at the extraliterary history of scientifiction in the early twentieth
 
 # The Popular Iconography of Possible Media
 
+![](images/eico_store.png)
+
 So let's come back to *Modern Electrics* magazine.  *Modern Electrics* began as the mail-order catalogue for Hugo Gernsback's Electro Importing Company, founded in 1905.  Through this catalog and their retail store at Broadway and Chambers St. in downtown New York (TriBeCa), the company provided access to specialized wireless and electrical equipment not found anywhere outside of Europe.  Electro Importing catered to a diverse clientele, providing their more advanced basement experimenters with the first vacuum tube offered for sale to the general public in 1911, and manufacturing for their novice users the first fully assembled radio set commercially available in late 1905, the Telimco.
 
-![telimco image]()
+![](images/telimco.jpg)
 
 After several issues of their mail order catalog and a growing subscription list, Electro Importing began including features, editorials, and letters to the editor.  Between 1906 and 1910, the catalog grew into a series of monthly magazines for the wireless homebrewer, beginning with *Modern Electrics* in 1908 and the offshoot Experimenter Publishing Company in 1915.  The transition from the mail-order catalog to the ‘slick paper’ monthly magazine format was a smooth one, evidenced by the fact that the third edition (1908) of the Electro Importing catalog bears the title of the new full-format magazine, “Modern Electrics.”  While the magazine still advertised the equipment Electro Importing offered for sale in a familiar grid layout with ordering instructions, it also included feature articles detailing the latest research into experimental media technologies in America, Germany, France, and in Gernsback’s own company offices.  Regular reporters like H. Winfield Secor and René Homer, celebrity guest contributors such as Lee De Forest, Thomas Edison, and Nikola Tesla, as well as the unnamed Paris Correspondent and Berlin Correspondent provided reports on television, wireless telephony, and the use of novel electrical apparatuses in film and theatrical productions, each of which would go into a great degree of technical detail.
 
@@ -196,7 +199,7 @@ Other times, writers in the Gernsback publications would explain away the limita
 
 As a kind of boundary object between the well established technical infrastructure of radio and the more intensely imaginative creations like “electronic vibration adjusters,” television provides an object lesson in the way the Gernsback magazines encouraged a kind of popular technological literacy through depictions of gadgets and gadgetry.  It was a familiar topic throughout the run of the Gernsback magazines, beginning with a 1909 *Modern Electrics* editorial, “Television and the Telephot.”  The article introduces a system first described by Berlin-based technologist Ernst Ruhmer for transmitting images over a wire, one which bears more of a technical resemblance to today’s liquid crystal displays (LCDs) than the electromechanical Nipkow disk scanners common at the time.
 
-![television and the telephot]()
+[television and the telephot]
 
 In a photograph (fig. 3), Gernsback stands in the Electro Importing Company offices next to a crude prototype displaying a 5x5 pixel cross transmitted from one display to another.  Ruhmer’s system used light-sensitive selenium cells arranged in a mosaic, transmitting differences in light intensity through variable current strengths.  The greatest benefit of this set up is that the entire image is transmitted across a single wire, as opposed to one wire for each individual pixel.  This multiplexing was a unique solution to the problem of translating a two-dimensional image into a one-dimensional electrical current, which was seen as the biggest stumbling block to television at that point.
 
@@ -206,13 +209,13 @@ But unlike other technical publications that just reported on the latest electri
 
 Throughout the late 1920s, the Gernsback magazines covered a range of methods for transmitting images over a wire or across the airwaves, some of which Electro Importing continued to experiment with on their own, and others they merely reported on, including the Semat machine, and the Nipkow disk.
 
-![](Radio News & S&I built your own tv set covers?)
+[Radio News & S&I built your own tv set covers?]
 
 By 1927, *Radio News* and *Science and Invention* had turned to the Nipkow disk model, and published several feature articles detailing how to build your own television receiver.  In one editorial for *Radio News*, Gernsback describes the television as just a simple add-on or expansion kit to a normal domestic radio set.  “I am quite certain [he writes] that the final television apparatus on your radio set will take up no more room than your present cone speaker.”
 
 Regardless of how advanced the devices detailed in the pages of Gernsback’s magazines seemed—solar cells, automobile mounted radiotelephones, electric keyboards powered by vacuum tubes—his staff reported on them as if they only required a combination of already existing electrical principles and components.  These new media appear as little more than the sum of individual building blocks that one can pick and choose from out of the pages of the *Electro Importing Catalog*.
 
-![](what's wrong with this picture cover)
+[what's wrong with this picture cover]
 
 Technical literacy was encouraged not only through blueprints and instruction manuals for the amateur tinkerer, but also through thought experiments and graphical projections of what these new media might look like.  The May 1927 cover of *Radio News* portrays a woman sitting next to a television receiver, or more precisely, a mockup of what such a receiver might eventually look like.  The caption asks readers to judge “What’s wrong with this picture?” and send in their answers for the chance to win $300 (possible answers: a single colorized element in an otherwise black and white image; the clock in the broadcasted image displays a different time than that on the wall of the viewer; a transparent screen).  Such a challenge doesn’t require a working knowledge of how to construct a prototype of a television set or read a circuit diagram of how it is to be wired.  Instead, it encourages the viewer to participate in a kind of thought experiment about how something like television might one day function.
 
@@ -238,7 +241,7 @@ Coming from this angle to the first works of narrative science fiction that emer
 
 Gernsback framed the writing of scientifiction stories as a kind of tinkering in itself, an educational enterprise that engaged both the writer and reader in a series of thought experiments that could lead to practical innovations.  Scientifiction stories, he wrote in the inaugural issue to *Amazing*,
 
->supply knowledge that we might not otherwise obtain -- and they supply it in a very palatable form.  For the best of these modern writers of scientifiction have the knack of imparting knowledge, and even inspiration, without once making us aware that we are being taught.
+> supply knowledge that we might not otherwise obtain -- and they supply it in a very palatable form.  For the best of these modern writers of scientifiction have the knack of imparting knowledge, and even inspiration, without once making us aware that we are being taught.
 
 (SLIDE - EE COVERS)
 
@@ -248,58 +251,3 @@ In these electrical experimenter magazines, the relationship between wonder and 
 
 * * * * * * 
 
-# Gesture Toward the Present & Digital Gadgetry
-
-[Return to the question:  But what future do we imagine ourselves ushering in when we use these devices?  And, what use is the history of fictions about ubiquitous connectivity for the way the actual experience feels?  What we need now in new media studies is a way to account for both these cultural imaginaries that define and precondition our use of new gadgets (the samsung galaxy gear watch ad!) and the new ways in which people are using the devices, the micro-interactions]
-
-Magic, when it is spoken of in relation to technology, usually implies a kind of awe in the face of inscrutable complexity.  According to Arthur C. Clarke's so-called third law, "any sufficiently advanced technology is indistinguishable from magic."  But it is important for us to remember that there is a very different form of magic that has *everything* to do with legibility.  Gadgets like the ones profiled in the electrical experimenter magazines compel speculation on the patterns of change that they imply, the new forms of lived experience that result from being able to receive a constantly updated news feed on the go or actually see what a friend is doing on the other side of the globe.
-
-And I want to leave us here with a kind of open question, or provocation.
-
-…which, unfortunately I have to leave here as a gesture more than anything else
-
-Are digital media fundamentally altering the ways we think, read, communicate, write?  This is not a new sentiment, and in the electrical experimenter magazines we see a means of coming to terms with these revelations/revolutions.
-
-I wanted to leave this up as my final image to close with, but I figured that replaying the gif might get a little obnoxious, if not creepy.
-
-=
-
-This was a formative moment for not only science fiction but media studies itself.  These amateur experimenter magazines sought to describe and reproduce the estranging effects of new technologies, in effect giving rise to a critical discourse on media long before it became a topic of academic inquiry.
-
-An excavation of early science fiction has implications not only for science fiction studies (which largely ignore this period in the history of the genre), but also for media studies and the question of the scale at which it begins to select its objects of study.  At what point does the study of media transition from a question of technical specificity to one of cultural form:  the electrical impulse, the circuit, the individual device or its content, the delivery infrastructure, or system standards?
-
-=
-
-While media studies has classically been interested in large scale materiality -- broadcast networks, representational frameworks, content delivery systems, power structures, transnational flows -- the emergent approaches summarized above indicate a renewed attention to materiality as a process, negotiated on the smallest of scales.[47]  The ongoing debate in paleoarchaeology over how to interpret technical artifacts remains instructive for theorists of media.  What is the unit of analysis we are are interested in:  the technical artifact or the ideational unit that it symbolizes?  The inner structure of that artifact or the web of practices, actors, and materials that it draws together?  Hewing closely to the contours of the gadget as an object of study, I want to ask: what would a media theory of interaction look like, one in which materiality encompassed the mediation between an individual subject and object, user and tool?[48]  What can we read off the shape of the individual artifact:  a distinct culture, unique in space and time, or the uses to which that tool can be put, with all that such usage entails?  While thus far media archaeology seems to privilege the history of vast social and technical apparatuses, a paleoarchaeology of media does not focus exclusively on the artifacts constituting these epistemes but on their techniques as well.  These techniques include not only the technical work process to which a given tool is put, but the ideas behind technologies -- fictions or memes of their efficacy, a subjunctive realm that for Leroi-Gourhan has every bit as much to do with operational sequences as do the tools themselves.  Throughout this project, I will demonstrate how fictions -- broadly understood -- play a constitutive role in the emergence of new media as socially shared systems of communication and expression.
-
-=
-
-Revisit "interaction," technique/technology, etc.
-
-This is not merely of historical interest, precisely because we need to revisit the humanistic dimensions, the *techniques* that are rightly the province of the humanities.
-
-And yet on another level, there is something to the idea that an encounter with a new technology causes an immediate reorientation in the ways we make sense of the world.  The technophiles of today frequently remark that touching the latest Apple product is like "holding the future in your hands,"
-
-![](images/2001monolith.jpg)
-
-as if the iPhone were the next iteration of the *2001: A Space Odyssey* monolith: a sleek black box whose inner workings we couldn't possibly understand but at the same time, somehow, makes us smarter the instant we touch it.  In this mythical explanation of human origins that falls into the gap of Kubrick's famous match cut from the bone club thrown into the air to the spaceship gracefully floating through outer space, we are simply remade by the tool the moment what might be done with it becomes clear.
-
-=
-
-This is exciting to me precisely because media studies, a field whose domain is supposed to be the intersections of technology and cultural form, has proven pretty clumsy when it comes to articulating a relationship between these two elements that isn't entirely deterministic:  Poetry *reacts* to the new experiences of speed in technological modernity rather than producing new experiences in its own right; game designers build levels based on the affordances and limitations of the platforms they're designing for, rather than pushing engineers to rethink those platforms and interfaces.
-
-Between the technology and the technique, there is a unique "syntax" negotiated by each of us, drawing upon the capacity to read the range of practical use off the shape of a tool, to imagine a series of possible or desirable outcomes, and to make those intangibles material.
-
-But if we continue in this vein, following Heidegger's insight that "the essence of technology is by no means anything technological," what then should constitute our object of study?  Does a handaxe crafted from a previously prepared stone core constitute a technology or a technique?  What about a telegraph key designed to be grasped in the palm, its sounder struck with the thumb?  Or a touchscreen that allows a pinching gesture to be translated into a change in the size of a digital image?
-
-The relationship between a tool and its affordances has been tackled from a number of angles, and several of these approaches will be drawn upon in what follows.  But very few studies have been willing to take up the imaginary or speculative dimensions necessary to any instance of technical interaction.  Everyone picks up a tool in the subjunctive mood:  what does this make possible that wasn't before?  How hard do I have to swing it?  How can I apply this to my concerns?  Even, why doesn't it work?
-
-As I hope it will become clear, a fuller understanding of these imaginative dimensions is important not only for the everyday tools we have at hand, but for historical and future technologies as well.  Prehistoric stone tools, dead media, and shiny new devices feel like magic because they exceed the contextual frameworks within which we would normally use them while at the same time providing a material trace of what the contours of that use might look like.  In this way, technical literacy evokes specters of the past and the future.  In order to track down the poetics of imagining and imaginary solutions, I would like to proceed inductively, taking my cue from the evolution of a particularly appropriate genre of technology: the gadget.
-
-=
-
-One argument at the core of science and technology studies is that every technology is in fact a social construction that reflects the political, cultural, and economic environments from which it emerged.  Anne Balsamo, writing on the importance of a humanities approach to the design of new technologies, argues that...
-
-> Humanists (like us!) extend this analysis (of technology's social construction) by noting that every technology also involves the expression of cultural understandings in the form of narratives, myths, values, and truth claims. ^[@balsamo2011]
-
-I would like to argue that on the contrary, humanists need not limit themselves to an analysis of the attendant cultural "expressions" of a technological innovation, as if these expressions could ever be merely second-order representations, untouched by the incursion of the technology itself.  The fictional imagination provides a constitutive dimension of the emergence of any given technology in the first place, down to the smallest wire or transistor.
