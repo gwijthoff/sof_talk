@@ -1,8 +1,8 @@
 % From Marlinspike to Mobile Media
 % Grant Wythoff \| Columbia University
-% November 14, 2013\
+% November 20, 2013\
     \
-    Society of Fellows Luncheon Lecture Series
+    Penn Cinema Studies Colloquium
 
 # 
 From Marlinspike to Mobile Media
@@ -42,6 +42,37 @@ From Marlinspike to Mobile Media
 
 # ![](images/telimco.jpg)
 
-====
+# ![](images/me_catalog1908.jpg)
 
-# unused slides
+# ![](images/signaling_mars.jpg)
+
+# ![](images/signaling_mars_insert.jpg)
+
+# ![](images/television_telephot.jpg)
+
+# ![](images/si_tvset.jpg)
+
+# ![](images/whats_wrong_tv.jpg)
+
+# ![](images/shadow_play_mag.jpg)
+
+# ![](images/newsophone.jpg)
+
+# ![](images/ee_cover_telephot.jpg)
+
+# ![](images/me_spaceship.jpg)
+
+#
+##
+
+## ![](images/experimental_dept.jpg)
+
+## ![](images/wireless_girl.jpg)
+
+## ![](images/deadwood_dick_bookworm.jpg)
+
+## ![](images/ee_newsroom.jpg)
+
+## ![](images/si_tvset_1928.jpg)
+
+## ![](images/christmas_suggestions.jpg)

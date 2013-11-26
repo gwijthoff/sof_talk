@@ -14,9 +14,7 @@ I wanted to leave this up as my final image to close with, but I figured that re
 
 =
 
-This was a formative moment for not only science fiction but media studies itself.  These amateur experimenter magazines sought to describe and reproduce the estranging effects of new technologies, in effect giving rise to a critical discourse on media long before it became a topic of academic inquiry.
 
-An excavation of early science fiction has implications not only for science fiction studies (which largely ignore this period in the history of the genre), but also for media studies and the question of the scale at which it begins to select its objects of study.  At what point does the study of media transition from a question of technical specificity to one of cultural form:  the electrical impulse, the circuit, the individual device or its content, the delivery infrastructure, or system standards?
 
 =
 
@@ -42,9 +40,9 @@ Between the technology and the technique, there is a unique "syntax" negotiated 
 
 But if we continue in this vein, following Heidegger's insight that "the essence of technology is by no means anything technological," what then should constitute our object of study?  Does a handaxe crafted from a previously prepared stone core constitute a technology or a technique?  What about a telegraph key designed to be grasped in the palm, its sounder struck with the thumb?  Or a touchscreen that allows a pinching gesture to be translated into a change in the size of a digital image?
 
-The relationship between a tool and its affordances has been tackled from a number of angles, and several of these approaches will be drawn upon in what follows.  But very few studies have been willing to take up the imaginary or speculative dimensions necessary to any instance of technical interaction.  Everyone picks up a tool in the subjunctive mood:  what does this make possible that wasn't before?  How hard do I have to swing it?  How can I apply this to my concerns?  Even, why doesn't it work?
+Very few studies have been willing to take up the imaginary or speculative dimensions necessary to any instance of technical interaction.  Everyone picks up a tool in the subjunctive mood:  what does this make possible that wasn't before?  How hard do I have to swing it?  How can I apply this to my concerns?  Even, why doesn't it work?
 
-As I hope it will become clear, a fuller understanding of these imaginative dimensions is important not only for the everyday tools we have at hand, but for historical and future technologies as well.  Prehistoric stone tools, dead media, and shiny new devices feel like magic because they exceed the contextual frameworks within which we would normally use them while at the same time providing a material trace of what the contours of that use might look like.  In this way, technical literacy evokes specters of the past and the future.  In order to track down the poetics of imagining and imaginary solutions, I would like to proceed inductively, taking my cue from the evolution of a particularly appropriate genre of technology: the gadget.
+As I hope it will become clear, a fuller understanding of these imaginative dimensions is important not only for the everyday tools we have at hand, but for historical and future technologies as well.  Prehistoric stone tools, dead media, and shiny new devices feel like magic because they exceed the contextual frameworks within which we would normally use them while at the same time providing a material trace of what the contours of that use might look like.  In this way, technical literacy evokes specters of the past and the future. 
 
 =
 
